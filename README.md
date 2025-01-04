@@ -1,23 +1,11 @@
-## Hi there 👋
+## Hi I'm José Augusto 👋
 
-<!--
-**JoseAugustoFS/JoseAugustoFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack developer currently studying for a Bachelor's degree in Information Systems. I'm passionate about software development and, as a Full Stack developer, I love the combination of technical challenges and creating complete solutions. I'm always looking to improve my skills in all layers of development, from the front-end to the back-end, and I'm motivated to contribute to building innovative and scalable systems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🤝 Connect with me
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-augusto-faria-de-sousa-1b1a1125b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseaugustofarsousa@gmail.com)
 
 ## 🛠️ My Favorite Tools
 
@@ -59,7 +47,7 @@ Here are some ideas to get you started:
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JoseAugustoFS&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoseAugustoFS&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAugustoFS&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
